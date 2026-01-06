@@ -1,0 +1,2 @@
+mkdir .godot
+touch .godot/README.md

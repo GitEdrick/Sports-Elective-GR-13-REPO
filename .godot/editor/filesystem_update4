@@ -1,0 +1,7 @@
+res://Poweruptest.tscn
+res://Scripts/game_manager.gd
+res://Scripts/player.gd
+res://Scripts/size_powerup.gd
+res://Scripts/InvulnerabilityPowerup.tscn
+res://Scripts/invulnerability_powerup.gd
+res://Scripts/enemy.gd
